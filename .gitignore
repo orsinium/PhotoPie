@@ -7,6 +7,8 @@ setup.py
 
 *.lock
 
+*.lock
+
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
